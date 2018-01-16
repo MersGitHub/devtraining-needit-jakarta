@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="My own bapkup " max_length="40" name="x_58872_needit_my_own_bapkup" type="collection">
+        <element label="Value_l" max_length="80" name="value_l" type="field_name"/>
+    </element>
+</database>
